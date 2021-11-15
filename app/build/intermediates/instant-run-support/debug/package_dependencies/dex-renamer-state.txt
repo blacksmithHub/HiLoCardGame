@@ -1,0 +1,19 @@
+#Wed Sep 13 08:37:46 CST 2017
+renamed.5=classes3.dex
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes5.dex
+renamed.0=classes6.dex
+base.5=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c2350dacee823ec23c9b325f8f6f3ed4c5c38d90
+base.4=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_592ac9f8f364aa0f34efa7ff4e0c62b98c538212
+base.3=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_779e0a1c2ee9df44567a99c22029289ce15760f2
+base.2=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ef873744fae07e8e843c464767ec64ec6392692a
+base.1=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_4cbe990683418bb39dbc8c4d523da7bf835f51a8
+base.0=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_14823a1d7ad85f82b7cb38024d17467a55e619f7
+file.5=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c2350dacee823ec23c9b325f8f6f3ed4c5c38d90\\classes.dex
+file.4=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_592ac9f8f364aa0f34efa7ff4e0c62b98c538212\\classes.dex
+file.3=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_779e0a1c2ee9df44567a99c22029289ce15760f2\\classes.dex
+file.2=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ef873744fae07e8e843c464767ec64ec6392692a\\classes.dex
+file.1=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_4cbe990683418bb39dbc8c4d523da7bf835f51a8\\classes.dex
+file.0=C\:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_14823a1d7ad85f82b7cb38024d17467a55e619f7\\classes.dex

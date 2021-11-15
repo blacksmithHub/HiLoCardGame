@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threespade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twoflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twoflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threeflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threeflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tenspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tenspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aceflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\aceflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightdiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightdiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nineheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\nineheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twospade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twospade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threediamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threediamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevenspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevenspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevendiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevendiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fivespade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fivespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queenflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queenflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fiveflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fiveflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fivediamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fivediamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nineheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\nineheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fivespade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fivespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aceheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\aceheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unknowncard1.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\unknowncard1.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twoflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twoflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevenheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevenheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tenheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tenheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixdiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixdiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevendiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevendiamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ninespade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\ninespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unknowncard2.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\unknowncard2.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twoheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twoheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ninediamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\ninediamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threeheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threeheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tendiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tendiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tendiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tendiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightspade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threediamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threediamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackdiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackdiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queenspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queenspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ninediamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\ninediamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queendiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queendiamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackdiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackdiamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightdiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightdiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackspade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unknowncard1.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\unknowncard1.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queenspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queenspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourdiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourdiamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twoheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twoheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fiveheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fiveheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queenflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queenflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourspade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ninespade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\ninespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tenflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tenflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevenspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevenspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threeheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threeheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aceheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\aceheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tenheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tenheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingdiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingdiamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixdiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixdiamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acespade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\acespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twospade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twospade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threespade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threespade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twodiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twodiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourspade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fiveheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fiveheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackspade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threeflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\threeflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevenheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevenheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fiveflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fiveflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nineflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\nineflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourdiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourdiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acediamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\acediamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aceflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\aceflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queenheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queenheart.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fivediamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fivediamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twodiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\twodiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingdiamond.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingdiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jackflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\jackflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tenspade.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tenspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acediamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\acediamond.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queenheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queenheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unknowncard2.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\unknowncard2.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\eightheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevenflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevenflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tenflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\tenflower.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nineflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\nineflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sevenflower.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sevenflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acespade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\acespade.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingheart.png",
+        "source": "C:\\ActivityAndroid\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kingheart.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\kingheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixspade.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\sixspade.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queendiamond.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\queendiamond.png"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fourflower.png",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\src\\main\\res\\drawable\\fourflower.png"
+    },
+    {
+        "merged": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Chanel\\Desktop\\HiLoCardGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ActivityAndroid\\HiLoCardGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\emtorres\\.android\\build-cache\\c550f0b4428be2142ef6d270085c24a6f6a26228\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]
